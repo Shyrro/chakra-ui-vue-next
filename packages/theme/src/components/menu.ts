@@ -5,6 +5,7 @@ import type {
   SystemStyleObject,
 } from "@chakra-ui/vue-theme-tools"
 import { mode } from "@chakra-ui/vue-theme-tools"
+import ButtonStyles from "./button"
 
 const baseStyleList: SystemStyleFunction = (props) => {
   return {
@@ -16,6 +17,10 @@ const baseStyleList: SystemStyleFunction = (props) => {
     zIndex: 1,
     borderRadius: "md",
     borderWidth: "1px",
+    display: "flex",
+    flexDirection: "column",
+    outline: 0,
+    listStyle: "none",
   }
 }
 
@@ -26,6 +31,9 @@ const baseStyleItem: SystemStyleFunction = (props) => {
     transitionProperty: "background",
     transitionDuration: "ultra-fast",
     transitionTimingFunction: "ease-in",
+    w: "full",
+    textAlign: "start",
+    cursor: "pointer",
     _focus: {
       bg: mode("gray.100", "whiteAlpha.100")(props),
     },
@@ -61,13 +69,20 @@ const baseStyleDivider: SystemStyleObject = {
   opacity: 0.6,
 }
 
-const baseStyleButton: SystemStyleObject = {
+const baseStyleButton: SystemStyleFunction = (props) => ({
+  ...ButtonStyles.baseStyle,
+  ...ButtonStyles.variants.solid(props),
   transitionProperty: "common",
   transitionDuration: "normal",
-}
+  h: 10,
+  minW: 10,
+  fontSize: "md",
+  px: 4,
+  outline: 0,
+})
 
 const baseStyle: PartsStyleFunction<typeof parts> = (props) => ({
-  button: baseStyleButton,
+  button: baseStyleButton(props),
   list: baseStyleList(props),
   item: baseStyleItem(props),
   groupTitle: baseStyleGroupTitle,
