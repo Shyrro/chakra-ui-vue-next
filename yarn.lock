@@ -1448,7 +1448,7 @@ __metadata:
   dependencies:
     "@chakra-ui/c-icon": 2.0.0-beta.0
     "@chakra-ui/c-motion": 2.0.0-beta.0
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-composables": 2.0.0-beta.0
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
@@ -1477,7 +1477,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/c-avatar@workspace:packages/c-avatar"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-layout": ^2.0.0-beta.0
     "@chakra-ui/vue-system": ^2.0.0-beta.0
     "@chakra-ui/vue-theme-tools": 2.0.0-beta.0
@@ -1493,7 +1493,7 @@ __metadata:
   resolution: "@chakra-ui/c-breadcrumb@workspace:packages/c-breadcrumb"
   dependencies:
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1508,7 +1508,7 @@ __metadata:
   dependencies:
     "@chakra-ui/c-icon": 2.0.0-beta.0
     "@chakra-ui/c-spinner": 2.0.0-beta.0
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1523,7 +1523,7 @@ __metadata:
   dependencies:
     "@chakra-ui/c-form-control": 1.0.0-beta.0
     "@chakra-ui/c-motion": 2.0.0-beta.0
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-composables": 2.0.0-beta.0
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
@@ -1542,7 +1542,7 @@ __metadata:
   dependencies:
     "@chakra-ui/c-icon": 2.0.0-beta.0
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1555,7 +1555,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/c-code@workspace:packages/c-code"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1568,7 +1568,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/c-color-mode@workspace:packages/c-color-mode"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     vue: ^3.2.37
   peerDependencies:
     vue: ^3.1.4
@@ -1592,7 +1592,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/c-focus-lock@workspace:packages/c-focus-lock"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-composables": 2.0.0-beta.0
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
@@ -1608,7 +1608,7 @@ __metadata:
   resolution: "@chakra-ui/c-form-control@workspace:packages/c-form-control"
   dependencies:
     "@chakra-ui/c-icon": ^2.0.0-beta.0
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-composables": ^2.0.0-beta.0
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": ^2.0.0-beta.0
@@ -1622,7 +1622,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/c-icon@workspace:packages/c-icon"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1635,7 +1635,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/c-image@workspace:packages/c-image"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     lodash: 4.17.21
     vue: ^3.2.37
@@ -1649,7 +1649,7 @@ __metadata:
   resolution: "@chakra-ui/c-input@workspace:packages/c-input"
   dependencies:
     "@chakra-ui/c-form-control": ^1.0.0-beta.0
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": ^2.0.0-beta.0
     vue: ^3.2.37
@@ -1681,7 +1681,7 @@ __metadata:
     "@chakra-ui/c-portal": 2.0.0-beta.0
     "@chakra-ui/c-scroll-lock": 2.0.0-beta.0
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-a11y": 2.0.0-beta.0
     "@chakra-ui/vue-composables": 2.0.0-beta.0
     "@chakra-ui/vue-system": 2.0.0-beta.0
@@ -1699,7 +1699,7 @@ __metadata:
   resolution: "@chakra-ui/c-motion@workspace:packages/c-motion"
   dependencies:
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-composables": 2.0.0-beta.0
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
@@ -1715,7 +1715,7 @@ __metadata:
   resolution: "@chakra-ui/c-pin-input@workspace:packages/c-pin-input"
   dependencies:
     "@chakra-ui/c-input": ^1.0.0-beta.0
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     "@zag-js/pin-input": 0.1.14
@@ -1730,7 +1730,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/c-popper@workspace:packages/c-popper"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@popperjs/core": ^2.8.4
     vue: ^3.2.37
   peerDependencies:
@@ -1742,7 +1742,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/c-portal@workspace:packages/c-portal"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-composables": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1795,7 +1795,7 @@ __metadata:
   resolution: "@chakra-ui/c-spinner@workspace:packages/c-spinner"
   dependencies:
     "@chakra-ui/c-visually-hidden": 2.0.0-beta.0
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-theme": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
@@ -1810,7 +1810,7 @@ __metadata:
   resolution: "@chakra-ui/c-tag@workspace:packages/c-tag"
   dependencies:
     "@chakra-ui/c-icon": 2.0.0-beta.0
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1870,15 +1870,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@chakra-ui/utils@npm:2.0.12":
-  version: 2.0.12
-  resolution: "@chakra-ui/utils@npm:2.0.12"
+"@chakra-ui/utils@npm:2.0.13":
+  version: 2.0.13
+  resolution: "@chakra-ui/utils@npm:2.0.13"
   dependencies:
     "@types/lodash.mergewith": 4.6.6
     css-box-model: 1.2.1
     framesync: 5.3.0
     lodash.mergewith: 4.6.2
-  checksum: 856dc98564db6f60878acc482dd9f16754e11dfc46ca4fdaae92878f6c0595395fda7ebd4599ab7960d392bca810d8666b286bd6a07462e595d176a38f76c25b
+  checksum: 3be2ce9d33262779b241ef6ac808fd252a1092d80c85941dd6b31d9891946aa8fedf8b9f90211c6754645847cda8194427a51ec6d42254025ea146fe1c011047
   languageName: node
   linkType: hard
 
@@ -1939,7 +1939,7 @@ __metadata:
   resolution: "@chakra-ui/vue-composables@workspace:packages/vue-composables"
   dependencies:
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1954,7 +1954,7 @@ __metadata:
   dependencies:
     "@chakra-ui/c-icon": 2.0.0-beta.0
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     vue: ^3.2.37
@@ -1996,7 +1996,7 @@ __metadata:
     "@chakra-ui/c-theme-provider": 2.0.0-beta.0
     "@chakra-ui/c-visually-hidden": 2.0.0-beta.0
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-a11y": 2.0.0-beta.0
     "@chakra-ui/vue-composables": 2.0.0-beta.0
     "@chakra-ui/vue-layout": 2.0.0-beta.0
@@ -2040,7 +2040,7 @@ __metadata:
   dependencies:
     "@chakra-ui/c-color-mode": 2.0.0-beta.0
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-styled": 1.0.0-beta.0
     "@chakra-ui/vue-utils": 2.0.0-beta.0
     "@emotion/css": ^11.9.0
@@ -2058,7 +2058,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/vue-test-utils@workspace:packages/test-utils"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-styled": 1.0.0-beta.0
     "@chakra-ui/vue-theme": 2.0.0-beta.0
     "@testing-library/jest-dom": ^5.14.1
@@ -2073,7 +2073,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/vue-theme-tools@workspace:packages/theme-tools"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@ctrl/tinycolor": ^3.4.1
     "@types/tinycolor2": ^1.4.2
@@ -2085,7 +2085,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@chakra-ui/vue-theme@workspace:packages/theme"
   dependencies:
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@chakra-ui/vue-anatomy": 1.0.0-beta.0
     "@chakra-ui/vue-system": 2.0.0-beta.0
     "@chakra-ui/vue-theme-tools": 2.0.0-beta.0
@@ -2102,7 +2102,7 @@ __metadata:
   resolution: "@chakra-ui/vue-utils@workspace:packages/utils"
   dependencies:
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@types/lodash.camelcase": ^4.3.6
     "@types/lodash.memoize": ^4.1.6
     "@types/lodash.mergewith": ^4.6.6
@@ -5327,8 +5327,8 @@ __metadata:
 
 "@types/react@file:stub/types__react::locator=chakra-ui-vue-next%40workspace%3A.":
   version: 0.0.0
-  resolution: "@types/react@file:stub/types__react#stub/types__react::hash=cdf41a&locator=chakra-ui-vue-next%40workspace%3A."
-  checksum: ee71a1d706c7da9972c78f6ad540606c06ca943eed58582d93deedfc5b63447029e63d3532d5b69d4ae837921e4c903c0c8461feccd0166df3367a4bfa0eb794
+  resolution: "@types/react@file:stub/types__react#stub/types__react::hash=b05b83&locator=chakra-ui-vue-next%40workspace%3A."
+  checksum: 6fbacad453679075234a94a51a8c1bcacdfa315919f882f9519a7dfe3cacc867656c39c59badeef0b2661573fad5791023e80f97178f961fcf8432e4b9677055
   languageName: node
   linkType: hard
 
@@ -7840,7 +7840,7 @@ __metadata:
     "@babel/preset-typescript": ^7.12.7
     "@chakra-ui/anatomy": ^2.0.1
     "@chakra-ui/styled-system": ^2.2.2
-    "@chakra-ui/utils": 2.0.12
+    "@chakra-ui/utils": 2.0.13
     "@changesets/changelog-github": ^0.3.0
     "@changesets/cli": ^2.14.1
     "@commitlint/cli": ^11.0.0

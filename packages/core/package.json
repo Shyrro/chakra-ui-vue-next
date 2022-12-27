@@ -49,7 +49,7 @@
     "@chakra-ui/c-theme-provider": "2.0.0-beta.0",
     "@chakra-ui/c-visually-hidden": "2.0.0-beta.0",
     "@chakra-ui/styled-system": "^2.2.2",
-    "@chakra-ui/utils": "2.0.12",
+    "@chakra-ui/utils": "2.0.13",
     "@chakra-ui/vue-a11y": "2.0.0-beta.0",
     "@chakra-ui/vue-composables": "2.0.0-beta.0",
     "@chakra-ui/vue-layout": "2.0.0-beta.0",
